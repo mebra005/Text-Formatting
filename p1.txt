@@ -1,0 +1,14 @@
+.nr
+Since it began to escape from AT&T's Bell Laboratories in
+the early 1970's, the success of the UNIX
+operating system has led to many different
+versions: recipients of the (at that time free) UNIX system
+code all began developing their own different
+versions in their own,
+.rj
+different, ways for use and sale. Universities, research
+institutes, government bodies and computer
+companies all began using the powerful UNIX system to develop
+many of the technologies which
+today are part of a UNIX system. 
+

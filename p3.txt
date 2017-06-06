@@ -1,0 +1,43 @@
+Since it began to escape from AT&T's Bell Laboratories in the early
+1970's,
+the success of the UNIX operating system
+has led to many
+different versions: recipients of the (at that time free) UNIX system
+
+
+code all began developing their own different versions in their own,
+different, ways for use and sale. Universities, research institutes,
+government bodies and computer
+companies all began using the powerful
+UNIX system to develop many of the technologies which today are part
+of a UNIX system.
+.pp
+Computer
+aided design, manufacturing control systems, laboratory
+simulations, even the Internet itself, all began life with and because
+of UNIX systems. Today,
+.po
+without UNIX systems, the Internet would come
+to a screeching halt. Most
+telephone calls could not be made,
+electronic commerce would grind to a halt and there would have never
+been "Jurassic Park"!
+By
+the
+late 1970's, a ripple effect had come into play. By now the
+under- and post-graduate students whose lab work had pioneered these
+new applications of technology
+were attaining management and
+decision-making positions
+inside the computer system suppliers and
+among its customers. And they wanted to continue using UNIX systems.
+.pp
+Soon all the large vendors, and many smaller ones, were marketing
+.pn
+their own, diverging, versions of the UNIX system optimized for their
+own computer architectures and boasting many different strengths and
+features. Customers found that, although UNIX systems were available
+
+everywhere, they seldom were
+able to interwork or co-exist without
+significant investment of time and effort to make them work
